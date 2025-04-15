@@ -3,7 +3,7 @@ import org.jetbrains.intellij.tasks.BuildSearchableOptionsTask
 plugins {
     id 'java'
     id 'de.schablinski.activejdbc-gradle-plugin' version '1.2'
-    id 'org.jetbrains.intellij' version '0.4.21'
+    id 'org.jetbrains.intellij' version '0.7.3'
 
 }
 
