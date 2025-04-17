@@ -9,7 +9,7 @@ We consider the interactions between each pair of refactorings and how these int
 ## System requirements
 * Linux
 * git
-* Java 8
+* Java 11, ignore test errors
 * IntelliJ (Community Addition) Version 2020.1.2
 
 ## How to run
